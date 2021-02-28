@@ -12,24 +12,24 @@ System Architecture: The "TopHat" monitored the whisker switch (antenna-like wir
 
 
 ## Hardware
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/CAD.jpg)
+![](graphics/CAD.jpg)
 
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/Car.jpg)
+![](graphics/Car.jpg)
 
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/map.jpg)
+![](graphics/map.jpg)
 
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/remote.jpg)
+![](graphics/remote.jpg)
 
 Defensive Shield Design: The gearing enabled circumferential movement around the central whisker. This decision greatly impacted our available space within the vehicle but was a major advantage over other vehicle which could not defend against all angles.
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/gearing.jpg)
+![](graphics/gearing.jpg)
 
 
 ## Software
 
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/I2C%20dynamic%20light%20display.jpg)
+![](graphics/I2C%20dynamic%20light%20display.jpg)
 
 HTC Vive Photo-Diode Localization: Reverse engineered the circuit surrounding the photodiode and developed the software to utilize the HTC Vive "Lighthouse" as a position and orientation localizer. A link to an animation of the "Lighthouse" can be found in the general description for this project.
-![](https://github.com/Zfish617/Battle_Bot/blob/main/graphics/htc%20vive%20photo-diode%20localization.jpg)
+![](graphics/htc%20vive%20photo-diode%20localization.jpg)
 
 
 
