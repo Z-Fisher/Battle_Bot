@@ -36,5 +36,8 @@ HTC Vive Photo-Diode Localization: Reverse engineered the circuit surrounding th
 ![](graphics/htc%20vive%20photo-diode%20localization.jpg)
 
 
+## Electrical
+
+![](graphics/circuit_vive.png)
 
 
