@@ -10,9 +10,9 @@ System Architecture: The "TopHat" monitored the whisker switch (antenna-like wir
   <img width="400" src="graphics/architecture.jpg"> 
 </p>  
 
-![](graphics/architecture.jpg)
-
-![](graphics/map.jpg)
+<p align="center">
+  <img width="400" src="graphics/map.jpg"> 
+</p>  
 
 
 ## Hardware
