@@ -72,7 +72,7 @@ Controller:
 
 Motor:
 <p align="center">
-  <img width="500" src="graphics/circuit_motor.png"> 
+  <img width="500" src="graphics/circuit_motors.png"> 
 </p>
 
 Tophat:
