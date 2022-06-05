@@ -3,7 +3,7 @@ October 2019 - December 2019
 
 As the final project for a graduate mechatronics class, three teammates and I developed a "battle bot" within the competitions constraints and a $100 budget. Each bot was a member of a four bot meta-team in which teams could strategically choose complimentary attributes. In our meta-team, our bot had a heavy-weight / brawler style with the goals of durability and pushing enemy bots by controlling positioning through weight, drivetrain power, and traction.
 
-Map
+## Map
 
 Our vehicle operated autonomously using existing knowledge of its environment as well as determining its position and orientation through two IR photodiodes. These sensors detect waves of IR pulses emitted from a "lighthouse" used with the HTC Vive Virtual Reality Headset. 
 
@@ -40,11 +40,15 @@ Vehicles in the game can do virtual damage to each other by hitting the whisker 
 
 Our bot's life points and team color were indicated with this LED ring. 
 
-![](graphics/I2C%20dynamic%20light%20display.jpg)
+<p align="center">
+  <img width="400" src="graphics/I2C%20dynamic%20light%20display.jpg"> 
+</p>  
 
 HTC Vive Photo-Diode Localization: Reverse engineered the circuit surrounding the photodiode and developed the software to utilize the HTC Vive "Lighthouse" as a position and orientation localizer. A link to an animation of the "Lighthouse" can be found in the map description for this project.
-![](graphics/htc%20vive%20photo-diode%20localization.jpg)
 
+<p align="center">
+  <img width="400" src="graphics/htc%20vive%20photo-diode%20localization.jpg"> 
+</p>  
 
 ## System Architecture
 
