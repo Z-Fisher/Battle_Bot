@@ -60,6 +60,22 @@ The "TopHat" monitored the whisker switch (antenna-like wire rising from the car
 
 ## Electrical
 
+Vive:
 <p align="center">
   <img width="400" src="graphics/circuit_vive.jpg"> 
+</p>
+
+Controller:
+<p align="center">
+  <img width="400" src="graphics/circuit_controller.jpg"> 
+</p>  
+
+Motor:
+<p align="center">
+  <img width="400" src="graphics/circuit_motor.jpg"> 
+</p>
+
+Tophat:
+<p align="center">
+  <img width="400" src="graphics/circuit_tophat.jpg"> 
 </p>  
