@@ -1,7 +1,7 @@
 # Battle Bot Competition
 October 2019 - December 2019
 
-As the final project for a graduate mechatronics class, three teammates and I developed a "battle bot" within the competitions constraints and a $100 budget. Each bot was a member of a four bot meta-team in which teams could strategically choose complimentary attributes. In our meta-team, our bot had a heavy-weight / brawler style with the goals of durability and "bullying" enemy bots by controlling positioning through weight, drivetrain power, and traction.
+As the final project for a graduate mechatronics class, three teammates and I developed a "battle bot" within the competitions constraints and a $100 budget. Each bot was a member of a four bot meta-team in which teams could strategically choose complimentary attributes. In our meta-team, our bot had a heavy-weight / brawler style with the goals of durability and pushing enemy bots by controlling positioning through weight, drivetrain power, and traction.
 
 Map
 
@@ -38,9 +38,11 @@ Vehicles in the game can do virtual damage to each other by hitting the whisker 
 
 ## Software
 
+Our bot's life points and team color were indicated with this LED ring. 
+
 ![](graphics/I2C%20dynamic%20light%20display.jpg)
 
-HTC Vive Photo-Diode Localization: Reverse engineered the circuit surrounding the photodiode and developed the software to utilize the HTC Vive "Lighthouse" as a position and orientation localizer. A link to an animation of the "Lighthouse" can be found in the general description for this project.
+HTC Vive Photo-Diode Localization: Reverse engineered the circuit surrounding the photodiode and developed the software to utilize the HTC Vive "Lighthouse" as a position and orientation localizer. A link to an animation of the "Lighthouse" can be found in the map description for this project.
 ![](graphics/htc%20vive%20photo-diode%20localization.jpg)
 
 
